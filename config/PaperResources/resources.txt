@@ -1,2 +1,3 @@
 https://cdn.modrinth.com/data/hd2YH2vf/versions/Zt9bxnVb/CropAndKettle-v1.1.7-Data-Resource-Pack.zip
 https://cdn.modrinth.com/data/9eokjKUM/versions/PeWFaCsz/Vanilla%2B%20Resource%20Pack%2019.0.zip
+https://cdn.modrinth.com/data/tR3rs1bf/versions/yvDr33GB/Mojang_Black_Background.zip
